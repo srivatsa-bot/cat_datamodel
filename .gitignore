@@ -1,0 +1,7 @@
+# Backend (server folder)
+server/node_modules/
+server/.env
+
+# Frontend (file-upload-app folder)
+file-upload-app/node_modules/
+file-upload-app/build/
